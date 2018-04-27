@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cafeteria Admin</string>
+    <string-array name="venuesList">
+        <item>Square One</item>
+        <item>TQ</item>
+        <item>Girls Pantry</item>
+        <item>Boys Pantry</item>
+        <item>Architechture Canteen</item>
+    </string-array>
+    <array name="Sq1Venues">
+        <item>Burgill</item>
+        <item>Havmor</item>
+        <item>Meals</item>
+        <item>Lapinoz</item>
+    </array>
+    <array name="categories1">
+        <item>Food</item>
+        <item>Bevarages</item>
+    </array>
+    <array name="categories2">
+        <item>Ice-Creams</item>
+        <item>Shakes</item>
+    </array>
+    <array name="type">
+        <item>veg</item>
+        <item>non-veg</item>
+    </array>
+</resources>

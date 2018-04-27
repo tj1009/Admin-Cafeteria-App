@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161911110841",
+    "firebase_url": "https://cafeteriaadmin.firebaseio.com",
+    "project_id": "cafeteriaadmin",
+    "storage_bucket": "cafeteriaadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161911110841:android:cd72b8a71d1afa13",
+        "android_client_info": {
+          "package_name": "com.example.tj.cafeteriaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161911110841-lsb5f8035o8etol4039nm40ihtt7i03d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tj.cafeteriaadmin",
+            "certificate_hash": "fb3746d821c1de06c09961a4eae80f8503a91ace"
+          }
+        },
+        {
+          "client_id": "161911110841-mc7vod2liu3n5e5kkkv8svjtn1fnghqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKmngQl16Uy0QAwXSoGdQe-HHyorgI3X0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161911110841-mc7vod2liu3n5e5kkkv8svjtn1fnghqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
